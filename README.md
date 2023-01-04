@@ -1,7 +1,9 @@
 **Tri de mots en C++**
+
 Ce programme permet de trier des mots en ordre croissant ou décroissant et de supprimer les doublons.
 
 **Utilisation**
+
 Pour exécuter le programme avec les paramètres par défaut, saisissez la commande suivante :
 
 
